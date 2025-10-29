@@ -9,6 +9,7 @@ venue: 'IEEE Robotics and Automation Letters'
 # slidesurl: 'https://arxiv.org/pdf/2507.10290'
 paperurl: 'https://arxiv.org/pdf/2507.10290'
 videourl: 'https://www.bilibili.com/video/BV12DW1zEEfp/?spm_id_from=333.337.search-card.all.click&vd_source=3533ba40792bf622b3fb90fb0749bda2'
+video_thumbnail: '/images/video-thumbnails/top-algorithm-cover.png'
 citation: 'Yu J, Chen N, Liu G, et al. TOP: Trajectory Optimization via Parallel Optimization towards Constant Time Complexity[J]. arXiv preprint arXiv:2507.10290, 2025.'
 ---
 
