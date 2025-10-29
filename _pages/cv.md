@@ -15,7 +15,7 @@ redirect_from:
   </a>
 </div>
 
-Education
+<!-- Education
 ======
 * M.S. in Control Science and Engineering, Zhejiang University, 2025 (expected)
   * Research Focus: Deep Reinforcement Learning and Trajectory Optimization
@@ -102,4 +102,4 @@ Languages
 ======
 * Chinese (Native)
 * English (Fluent)
-* [Add other languages if applicable]
+* [Add other languages if applicable] -->
