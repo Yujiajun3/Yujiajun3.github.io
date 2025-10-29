@@ -20,22 +20,22 @@ Publications
 ------
 
 **1. TOP: Trajectory Optimization via Parallel Optimization towards Constant Time Complexity**
-- **Authors**: Yu J, Chen N, Liu G, et al.
+- **Authors**: **Jiajun Yu†**, Nanhe Chen†, Guodong Liu, Chao Xu, Fei Gao, and Yanjun Cao
 - **Venue**: IEEE Robotics and Automation Letters, 2025
 - **Links**: [Paper](https://arxiv.org/pdf/2507.10290) | [Video](https://www.bilibili.com/video/BV12DW1zEEfp/?spm_id_from=333.337.search-card.all.click&vd_source=3533ba40792bf622b3fb90fb0749bda2)
-- **Status**: Published
+- **Status**: Accepted
 
 <div style="margin: 15px 0; border: 1px solid #e1e5e9; border-radius: 8px; overflow: hidden; background-color: #f8f9fa;">
-  <div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-    <iframe 
-      src="//player.bilibili.com/player.html?bvid=BV12DW1zEEfp&page=1&high_quality=1&danmaku=0&autoplay=0" 
-      scrolling="no" 
-      border="0" 
-      frameborder="no" 
-      framespacing="0" 
-      allowfullscreen="true" 
-      style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
-    </iframe>
+  <div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden; cursor: pointer;" onclick="this.innerHTML='<iframe src=&quot;//player.bilibili.com/player.html?bvid=BV12DW1zEEfp&page=1&high_quality=1&danmaku=0&autoplay=1&quot; scrolling=&quot;no&quot; border=&quot;0&quot; frameborder=&quot;no&quot; framespacing=&quot;0&quot; allowfullscreen=&quot;true&quot; style=&quot;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&quot;></iframe>'">
+    <img src="/images/video-thumbnails/top-algorithm-cover.png" 
+         alt="TOP Algorithm Video Thumbnail" 
+         style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover;">
+    <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); background: rgba(0,0,0,0.7); border-radius: 50%; width: 80px; height: 80px; display: flex; align-items: center; justify-content: center;">
+      <i class="fa fa-play" style="color: white; font-size: 24px; margin-left: 4px;"></i>
+    </div>
+    <div style="position: absolute; bottom: 10px; left: 10px; background: rgba(0,0,0,0.8); color: white; padding: 4px 8px; border-radius: 4px; font-size: 12px;">
+      <i class="fa fa-play-circle"></i> 点击播放
+    </div>
   </div>
   <div style="padding: 8px 12px; font-size: 12px; color: #666; background-color: #fff;">
     <i class="fa fa-play-circle" aria-hidden="true"></i> Trajectory optimization demonstration - Click to play
@@ -45,12 +45,13 @@ Publications
 Ongoing Works
 ------
 
-**1. [Paper Title 1]**
-- **Authors**: [Author names]
-- **Target Venue**: [Journal/Conference Name]
+**1. Learning Safety-enhanced Navigation with Integrated Model Information**
+- **Authors**: Nanhe Chen†, **Jiajun Yu†**, Mengke Zhang†, Pengxiang Zhou, Chao Xu，Fei Gao, and Yanjun Cao
+- **Target Venue**: IEEE Transactions on Automation Science
+and Engineering
 - **Links**: [Paper](link-to-paper) | [Video](link-to-video)
-- **Status**: Under Review / In Preparation
-
+- **Status**: To be Submitted
+<!-- 
 <div style="margin: 15px 0; border: 1px solid #e1e5e9; border-radius: 8px; overflow: hidden; background-color: #f8f9fa;">
   <div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden;">
     <!-- Video embed will go here -->
@@ -61,15 +62,15 @@ Ongoing Works
   <div style="padding: 8px 12px; font-size: 12px; color: #666; background-color: #fff;">
     <i class="fa fa-play-circle" aria-hidden="true"></i> Project demonstration video
   </div>
-</div>
+</div> -->
 
-**2. [Paper Title 2]**
-- **Authors**: [Author names]
-- **Target Venue**: [Journal/Conference Name]  
+**2. Adaptive Trajectory Splitting via a Shared DDPG Agent for Parallel Optimization**
+- **Authors**: **Jiajun Yu**, Chao Xu, Fei Gao, and Yanjun Cao
+- **Target Venue**: 2026 IEEE/RSJ International Conference on Intelligent Robots and Systems 
 - **Links**: [Paper](link-to-paper) | [Video](link-to-video)
-- **Status**: Under Review / In Preparation
+- **Status**: In Preparation
 
-<div style="margin: 15px 0; border: 1px solid #e1e5e9; border-radius: 8px; overflow: hidden; background-color: #f8f9fa;">
+<!-- <div style="margin: 15px 0; border: 1px solid #e1e5e9; border-radius: 8px; overflow: hidden; background-color: #f8f9fa;">
   <div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden;">
     <!-- Video embed will go here -->
     <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: #666;">
@@ -79,4 +80,22 @@ Ongoing Works
   <div style="padding: 8px 12px; font-size: 12px; color: #666; background-color: #fff;">
     <i class="fa fa-play-circle" aria-hidden="true"></i> Project demonstration video
   </div>
-</div>
+</div> -->
+
+**3. CoNiPA: Cooperative Non-inertial Control Frame with Perception-Aware Mode**
+- **Authors**: Mingxuan Zhang†, **Jiajun Yu†**, Baozhe Zhang, Chao Xu, Fei Gao, and Yanjun Cao,
+- **Target Venue**:  IEEE Robotics and Automation Letters 
+- **Links**: [Paper](link-to-paper) | [Video](link-to-video)
+- **Status**: In Preparation
+
+<!-- <div style="margin: 15px 0; border: 1px solid #e1e5e9; border-radius: 8px; overflow: hidden; background-color: #f8f9fa;">
+  <div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+    <!-- Video embed will go here -->
+    <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: #666;">
+      Video Preview Coming Soon
+    </div>
+  </div>
+  <div style="padding: 8px 12px; font-size: 12px; color: #666; background-color: #fff;">
+    <i class="fa fa-play-circle" aria-hidden="true"></i> Project demonstration video
+  </div>
+</div> -->
