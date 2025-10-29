@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yu Jiajun - Academic Personal Website"
+title: "Jiajun Yu - 余佳骏"
 author_profile: true
 redirect_from: 
   - /about/

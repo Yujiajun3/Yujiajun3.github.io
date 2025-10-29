@@ -1,22 +1,22 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Yu Jiajun",
+    "email": "jjyu@zju.edu.cn",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://yujiajun3.github.io",
+    "summary": "Master's student in Control Science and Engineering at Zhejiang University, focusing on deep reinforcement learning and trajectory optimization",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
-      "region": ""
+      "city": "Hangzhou",
+      "countryCode": "CN",
+      "region": "Zhejiang Province"
     },
     "profiles": [
       {
         "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "username": "Yu Jiajun",
+        "url": "https://scholar.google.com/citations?user=piJqW2n2WzMC&hl=zh-CN"
       },
       {
         "network": "ORCID",
