@@ -6,8 +6,9 @@ permalink: 'https://arxiv.org/abs/2507.10290'
 excerpt: 'This paper proposes a novel trajectory optimization framework based on the Consensus Alternating Direction Method of Multipliers (CADMM) algorithm, which decomposes the trajectory into multiple segments and solves the subproblems in parallel.'
 date: 2025-10-10
 venue: 'IEEE Robotics and Automation Letters'
-videourl: 'https://www.bilibili.com/video/BV12DW1zEEfp/?spm_id_from=333.337.search-card.all.click'
+# slidesurl: 'https://arxiv.org/pdf/2507.10290'
 paperurl: 'https://arxiv.org/pdf/2507.10290'
+videourl: 'https://www.bilibili.com/video/BV12DW1zEEfp/?spm_id_from=333.337.search-card.all.click&vd_source=3533ba40792bf622b3fb90fb0749bda2'
 citation: 'Yu J, Chen N, Liu G, et al. TOP: Trajectory Optimization via Parallel Optimization towards Constant Time Complexity[J]. arXiv preprint arXiv:2507.10290, 2025.'
 ---
 
