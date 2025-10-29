@@ -51,10 +51,10 @@ Ongoing Works
 and Engineering
 - **Links**: [Paper](link-to-paper) | [Video](link-to-video)
 - **Status**: To be Submitted
+
 <!-- 
 <div style="margin: 15px 0; border: 1px solid #e1e5e9; border-radius: 8px; overflow: hidden; background-color: #f8f9fa;">
   <div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-    <!-- Video embed will go here -->
     <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: #666;">
       Video Preview Coming Soon
     </div>
@@ -62,7 +62,8 @@ and Engineering
   <div style="padding: 8px 12px; font-size: 12px; color: #666; background-color: #fff;">
     <i class="fa fa-play-circle" aria-hidden="true"></i> Project demonstration video
   </div>
-</div> -->
+</div>
+-->
 
 **2. Adaptive Trajectory Splitting via a Shared DDPG Agent for Parallel Optimization**
 - **Authors**: **Jiajun Yu**, Chao Xu, Fei Gao, and Yanjun Cao
@@ -70,9 +71,9 @@ and Engineering
 - **Links**: [Paper](link-to-paper) | [Video](link-to-video)
 - **Status**: In Preparation
 
-<!-- <div style="margin: 15px 0; border: 1px solid #e1e5e9; border-radius: 8px; overflow: hidden; background-color: #f8f9fa;">
+<!-- 
+<div style="margin: 15px 0; border: 1px solid #e1e5e9; border-radius: 8px; overflow: hidden; background-color: #f8f9fa;">
   <div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-    <!-- Video embed will go here -->
     <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: #666;">
       Video Preview Coming Soon
     </div>
@@ -80,7 +81,8 @@ and Engineering
   <div style="padding: 8px 12px; font-size: 12px; color: #666; background-color: #fff;">
     <i class="fa fa-play-circle" aria-hidden="true"></i> Project demonstration video
   </div>
-</div> -->
+</div>
+-->
 
 **3. CoNiPA: Cooperative Non-inertial Control Frame with Perception-Aware Mode**
 - **Authors**: Mingxuan Zhang†, **Jiajun Yu†**, Baozhe Zhang, Chao Xu, Fei Gao, and Yanjun Cao,
@@ -88,9 +90,9 @@ and Engineering
 - **Links**: [Paper](link-to-paper) | [Video](link-to-video)
 - **Status**: In Preparation
 
-<!-- <div style="margin: 15px 0; border: 1px solid #e1e5e9; border-radius: 8px; overflow: hidden; background-color: #f8f9fa;">
+<!-- 
+<div style="margin: 15px 0; border: 1px solid #e1e5e9; border-radius: 8px; overflow: hidden; background-color: #f8f9fa;">
   <div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-    <!-- Video embed will go here -->
     <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: #666;">
       Video Preview Coming Soon
     </div>
@@ -98,4 +100,5 @@ and Engineering
   <div style="padding: 8px 12px; font-size: 12px; color: #666; background-color: #fff;">
     <i class="fa fa-play-circle" aria-hidden="true"></i> Project demonstration video
   </div>
-</div> -->
+</div>
+-->
