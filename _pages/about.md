@@ -11,7 +11,9 @@ Currently, I’m preparing to apply for PhD research program. If you're interest
 
 Research Interests
 ------
-My current focus is on utilizing deep reinforcement learning to enhance traditional optimization methods.
+My research focuses on parallel trajectory optimization for robotics, which has demonstrated strong performance in large-scale and long-horizon problems. 
+I design GPU-accelerated algorithms that harness modern computing architectures for maximum efficiency. 
+Currently, I am actively exploring the integration of machine learning methods with traditional optimization techniques to further accelerate the trajectory optimization process and uncover new potential from this synergy.
 - Motion Planning
 - Parallel Trajectory Optimization  
 - Deep Reinforcement Learning
@@ -41,6 +43,16 @@ Publications
     <i class="fa fa-play-circle" aria-hidden="true"></i> Trajectory optimization demonstration - Click to play
   </div>
 </div>
+
+Project
+------
+
+**1. Air-Ground Cooperation without Global Information: RoFly and CubeTrack Cooperation with CREPES and CoNi-MPC**
+- **Authors**: **Jiajun Yu**, Jiadong Lu, Li Wang, Mingxuan Zhang, Pengxiang Zhou, Ruitian Pang, Xiangyu Li, Zhehan Li, Chao Xu, and Yanjun Cao
+- **Venue**: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) **EXPO**, 2025; 
+- **Links**: [Project Page](https://fast-fire.github.io/IROS2025-EXPO-DisplayPage/)
+
+<img src="/images/IROS25_EXPO.png" alt="IROS 2025 EXPO" style="width: 100%; max-width: 800px; display: block; margin-left: auto; margin-right: auto; border-radius: 8px; margin-top: 15px; margin-bottom: 15px;"/>
 
 Ongoing Works
 ------
@@ -85,7 +97,7 @@ and Engineering
 -->
 
 **3. CoNiPA: Cooperative Non-inertial Control Frame with Perception-Aware Mode**
-- **Authors**: Mingxuan Zhang†, **Jiajun Yu†**, Baozhe Zhang, Chao Xu, Fei Gao, and Yanjun Cao,
+- **Authors**: Mingxuan Zhang†, **Jiajun Yu†**, Mingwei Lai, Baozhe Zhang, Chao Xu, Fei Gao, and Yanjun Cao,
 - **Target Venue**:  IEEE Robotics and Automation Letters 
 - **Links**: [Paper](link-to-paper) | [Video](link-to-video)
 - **Status**: In Preparation
