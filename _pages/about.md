@@ -78,7 +78,7 @@ and Engineering
 -->
 
 **2. Adaptive Trajectory Splitting via a Shared DDPG Agent for Parallel Optimization**
-- **Authors**: **Jiajun Yu**, Chao Xu, Fei Gao, and Yanjun Cao
+- **Authors**: **Jiajun Yu**, Guodong Liu, Chao Xu, Fei Gao, and Yanjun Cao
 - **Target Venue**: 2026 IEEE/RSJ International Conference on Intelligent Robots and Systems 
 - **Links**: [Paper](link-to-paper) | [Video](link-to-video)
 - **Status**: <span style="background-color: #17a2b8; color: white; padding: 3px 10px; border-radius: 12px; font-weight: bold; font-size: 0.85em;">🔧 In Preparation</span>
