@@ -62,7 +62,7 @@ Ongoing Works
 - **Target Venue**: IEEE Transactions on Automation Science
 and Engineering
 - **Links**: [Paper](link-to-paper) | [Video](link-to-video)
-- **Status**: To be Submitted
+- **Status**: <span style="background-color: #ffc107; color: #212529; padding: 3px 10px; border-radius: 12px; font-weight: bold; font-size: 0.85em;">📝 To be Submitted</span>
 
 <!-- 
 <div style="margin: 15px 0; border: 1px solid #e1e5e9; border-radius: 8px; overflow: hidden; background-color: #f8f9fa;">
@@ -81,7 +81,7 @@ and Engineering
 - **Authors**: **Jiajun Yu**, Chao Xu, Fei Gao, and Yanjun Cao
 - **Target Venue**: 2026 IEEE/RSJ International Conference on Intelligent Robots and Systems 
 - **Links**: [Paper](link-to-paper) | [Video](link-to-video)
-- **Status**: In Preparation
+- **Status**: <span style="background-color: #17a2b8; color: white; padding: 3px 10px; border-radius: 12px; font-weight: bold; font-size: 0.85em;">🔧 In Preparation</span>
 
 <!-- 
 <div style="margin: 15px 0; border: 1px solid #e1e5e9; border-radius: 8px; overflow: hidden; background-color: #f8f9fa;">
@@ -100,7 +100,7 @@ and Engineering
 - **Authors**: Mingxuan Zhang†, **Jiajun Yu†**, Mingwei Lai, Baozhe Zhang, Chao Xu, Fei Gao, and Yanjun Cao,
 - **Target Venue**:  IEEE Robotics and Automation Letters 
 - **Links**: [Paper](link-to-paper) | [Video](link-to-video)
-- **Status**: In Preparation
+- **Status**: <span style="background-color: #17a2b8; color: white; padding: 3px 10px; border-radius: 12px; font-weight: bold; font-size: 0.85em;">🔧 In Preparation</span>
 
 <!-- 
 <div style="margin: 15px 0; border: 1px solid #e1e5e9; border-radius: 8px; overflow: hidden; background-color: #f8f9fa;">
