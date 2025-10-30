@@ -25,7 +25,7 @@ Publications
 - **Authors**: **Jiajun Yu†**, Nanhe Chen†, Guodong Liu, Chao Xu, Fei Gao, and Yanjun Cao
 - **Venue**: IEEE Robotics and Automation Letters, 2025
 - **Links**: [Paper](https://arxiv.org/pdf/2507.10290) | [Video](https://www.bilibili.com/video/BV12DW1zEEfp/?spm_id_from=333.337.search-card.all.click&vd_source=3533ba40792bf622b3fb90fb0749bda2)
-- **Status**: Accepted
+- **Status**: <span style="background-color: #28a745; color: white; padding: 3px 10px; border-radius: 12px; font-weight: bold; font-size: 0.85em;">✓ Accepted</span>
 
 <div style="margin: 15px 0; border: 1px solid #e1e5e9; border-radius: 8px; overflow: hidden; background-color: #f8f9fa;">
   <div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden; cursor: pointer;" onclick="this.innerHTML='<iframe src=&quot;//player.bilibili.com/player.html?bvid=BV12DW1zEEfp&page=1&high_quality=1&danmaku=0&autoplay=1&quot; scrolling=&quot;no&quot; border=&quot;0&quot; frameborder=&quot;no&quot; framespacing=&quot;0&quot; allowfullscreen=&quot;true&quot; style=&quot;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&quot;></iframe>'">
