@@ -44,7 +44,7 @@ Publications
   </div>
 </div>
 
-Project
+Projects
 ------
 
 **1. Air-Ground Cooperation without Global Information: RoFly and CubeTrack Cooperation with CREPES and CoNi-MPC**
