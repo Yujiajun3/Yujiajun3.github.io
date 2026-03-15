@@ -59,8 +59,7 @@ Ongoing Works
 
 **1. Learning Safety-enhanced Navigation with Integrated Model Information**
 - **Authors**: Nanhe Chen†, **Jiajun Yu†**, Mengke Zhang†, Pengxiang Zhou, Chao Xu，Fei Gao, and Yanjun Cao
-- **Target Venue**: IEEE Transactions on Automation Science
-and Engineering
+- **Target Venue**: IEEE Transactions on Automation Science and Engineering, 2026
 - **Links**: [Paper](link-to-paper) | [Video](link-to-video)
 - **Status**: <span style="background-color: #ffc107; color: #212529; padding: 3px 10px; border-radius: 12px; font-weight: bold; font-size: 0.85em;">📝 To be Submitted</span>
 
@@ -77,9 +76,9 @@ and Engineering
 </div>
 -->
 
-**2. Adaptive Trajectory Splitting via a Shared DDPG Agent for Parallel Optimization**
+**2. ATRS: Adaptive Trajectory Re-splitting via a Shared Neural Policy for Parallel Optimization**
 - **Authors**: **Jiajun Yu**, Guodong Liu, Chao Xu, Fei Gao, and Yanjun Cao
-- **Target Venue**: 2026 IEEE/RSJ International Conference on Intelligent Robots and Systems 
+- **Target Venue**: IEEE Robotics and Automation Letters, 2026
 - **Links**: [Paper](link-to-paper) | [Video](link-to-video)
 - **Status**: <span style="background-color: #17a2b8; color: white; padding: 3px 10px; border-radius: 12px; font-weight: bold; font-size: 0.85em;">🔧 In Preparation</span>
 
@@ -97,8 +96,8 @@ and Engineering
 -->
 
 **3. CoNiPA: Cooperative Non-inertial Control Frame with Perception-Aware Mode**
-- **Authors**: Mingxuan Zhang†, **Jiajun Yu†**, Mingwei Lai, Baozhe Zhang, Chao Xu, Fei Gao, and Yanjun Cao,
-- **Target Venue**:  IEEE Robotics and Automation Letters 
+- **Authors**: Mingxuan Zhang†, **Jiajun Yu†**, Baozhe Zhang†, Chao Xu, Fei Gao, and Yanjun Cao,
+- **Target Venue**:  IEEE Robotics and Automation Letters , 2026
 - **Links**: [Paper](link-to-paper) | [Video](link-to-video)
 - **Status**: <span style="background-color: #17a2b8; color: white; padding: 3px 10px; border-radius: 12px; font-weight: bold; font-size: 0.85em;">🔧 In Preparation</span>
 
