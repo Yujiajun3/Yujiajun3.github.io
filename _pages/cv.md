@@ -15,127 +15,146 @@ redirect_from:
   </a>
 </div>
 
-<h2 style="border-bottom: 2px solid #e1e5e9; padding-bottom: 10px; margin-top: 40px;"><i class="fa fa-graduation-cap"></i> Education</h2>
+<!-- ==================== Education ==================== -->
+<h2 style="border-bottom: 2px solid #e1e5e9; padding-bottom: 10px; margin-top: 40px;">
+  <i class="fa fa-graduation-cap"></i> Education
+</h2>
 
 <div style="background: #fff; border-left: 4px solid #007bff; padding: 15px 20px; margin-bottom: 20px; box-shadow: 0 2px 5px rgba(0,0,0,0.05); border-radius: 0 8px 8px 0;">
-  <h3 style="margin-top: 0; margin-bottom: 5px;">Zhejiang University <span style="float: right; font-size: 0.8em; color: #666; font-weight: normal;">2022 - 2025 (Expected)</span></h3>
+  <h3 style="margin-top: 0; margin-bottom: 5px;">Zhejiang University, Hangzhou <span style="float: right; font-size: 0.8em; color: #666; font-weight: normal;">2024.09 - 2027.06</span></h3>
   <div style="color: #444; font-weight: bold;">M.S. in Control Science and Engineering</div>
   <ul style="margin-top: 10px; margin-bottom: 0; color: #555;">
     <li><strong>Lab:</strong> <a href="http://zju-fast.com/">FastLab (Fire Group)</a></li>
-    <li><strong>Supervisors:</strong> Prof. Yanjun Cao and Prof. Chao Xu</li>
-    <li><strong>Research Focus:</strong> Deep Reinforcement Learning, Parallel Trajectory Optimization</li>
+    <li><strong>Supervisors:</strong> Prof. <a href="http://zju-fast.com/research-group/yanjun-cao/">Yanjun Cao</a> and Prof. <a href="http://zju-fast.com/research-group/chao-xu/">Chao Xu</a></li>
+    <li><strong>Research Focus:</strong> Trajectory Planning & Optimization, Reinforcement Learning, End-to-End Autonomous Navigation</li>
+    <li><strong>Honors:</strong> Outstanding Graduate Student of Zhejiang University (2024-2025); Outstanding Graduate Student of ZJU Huzhou Institute (2025)</li>
   </ul>
 </div>
 
-<h2 style="border-bottom: 2px solid #e1e5e9; padding-bottom: 10px; margin-top: 40px;"><i class="fa fa-flask"></i> Research Experience</h2>
+<div style="background: #fff; border-left: 4px solid #007bff; padding: 15px 20px; margin-bottom: 20px; box-shadow: 0 2px 5px rgba(0,0,0,0.05); border-radius: 0 8px 8px 0;">
+  <h3 style="margin-top: 0; margin-bottom: 5px;">Harbin Institute of Technology, Harbin <span style="float: right; font-size: 0.8em; color: #666; font-weight: normal;">2020.09 - 2024.06</span></h3>
+  <div style="color: #444; font-weight: bold;">B.E. in Robotics Engineering</div>
+  <ul style="margin-top: 10px; margin-bottom: 0; color: #555;">
+    <li><strong>GPA:</strong> 93.13 / 100 &nbsp;|&nbsp; <strong>Rank:</strong> 5 / 298</li>
+    <li><strong>Honors:</strong> National Scholarship; <strong>First Prize in National Intelligent Car Competition</strong>; SMC First-Class Scholarship; People's Scholarship (multiple times)</li>
+  </ul>
+</div>
+
+<!-- ==================== Publications ==================== -->
+<h2 style="border-bottom: 2px solid #e1e5e9; padding-bottom: 10px; margin-top: 40px;">
+  <i class="fa fa-file-text"></i> Publications
+</h2>
 
 <div style="background: #fff; border-left: 4px solid #28a745; padding: 15px 20px; margin-bottom: 20px; box-shadow: 0 2px 5px rgba(0,0,0,0.05); border-radius: 0 8px 8px 0;">
-  <h3 style="margin-top: 0; margin-bottom: 5px;">Graduate Research Assistant <span style="float: right; font-size: 0.8em; color: #666; font-weight: normal;">2023 - Present</span></h3>
-  <div style="color: #444; font-weight: bold;">FastLab, Zhejiang University</div>
+  <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
+    <span style="background-color: #28a745; color: white; padding: 2px 10px; border-radius: 12px; font-weight: bold; font-size: 0.8em;">Accepted</span>
+    <span style="font-size: 0.85em; color: #666;">RA-L 2025 · Presented at ICRA 2026</span>
+  </div>
+  <h3 style="margin-top: 8px; margin-bottom: 5px;">[1] TOP: Trajectory Optimization via Parallel Optimization towards Constant Time Complexity</h3>
+  <div style="color: #555; font-size: 0.95em;"><strong>Jiajun Yu</strong><sup>†</sup>, Nanhe Chen<sup>†</sup>, Guodong Liu, Chao Xu, Fei Gao, and Yanjun Cao</div>
+  <p style="margin-top: 8px; margin-bottom: 8px; color: #555; font-size: 0.9em;">
+    Proposed an ADMM-based parallel trajectory optimization framework that decomposes trajectories into independent sub-problems, reducing per-iteration time complexity to O(1). Achieved >10× speedup over serial SOTA on 100-segment trajectories; GPU deployment enables millisecond-level optimization for 1000-segment trajectories.
+  </p>
+  <div style="margin-top: 8px;">
+    <a href="https://arxiv.org/pdf/2507.10290" style="background: #007bff; color: white; padding: 3px 10px; border-radius: 12px; font-size: 0.85em; text-decoration: none; margin-right: 5px;">Paper</a>
+    <a href="https://www.bilibili.com/video/BV12DW1zEEfp/" style="background: #fb7299; color: white; padding: 3px 10px; border-radius: 12px; font-size: 0.85em; text-decoration: none;">Video</a>
+  </div>
+</div>
+
+<div style="background: #fff; border-left: 4px solid #ffc107; padding: 15px 20px; margin-bottom: 20px; box-shadow: 0 2px 5px rgba(0,0,0,0.05); border-radius: 0 8px 8px 0;">
+  <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
+    <span style="background-color: #ffc107; color: #212529; padding: 2px 10px; border-radius: 12px; font-weight: bold; font-size: 0.8em;">To be Submitted</span>
+    <span style="font-size: 0.85em; color: #666;">IEEE T-RO 2026</span>
+  </div>
+  <h3 style="margin-top: 8px; margin-bottom: 5px;">[2] Learning Safety-enhanced Navigation with Integrated Model Information</h3>
+  <div style="color: #555; font-size: 0.95em;">Nanhe Chen<sup>†</sup>, <strong>Jiajun Yu</strong><sup>†</sup>, Mengke Zhang<sup>†</sup>, Pengxiang Zhou, Chao Xu, Fei Gao, and Yanjun Cao</div>
+  <p style="margin-top: 8px; margin-bottom: 0; color: #555; font-size: 0.9em;">
+    Proposed an end-to-end visual navigation framework integrating differentiable physics engine with safety-constrained policy optimization. Leveraged PALM for near-KKT convergence in a single loop. Achieved zero-shot sim-to-real transfer across differential-drive, tracked, and quadruped platforms with zero collision rate in dense environments.
+  </p>
+</div>
+
+<div style="background: #fff; border-left: 4px solid #ffc107; padding: 15px 20px; margin-bottom: 20px; box-shadow: 0 2px 5px rgba(0,0,0,0.05); border-radius: 0 8px 8px 0;">
+  <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
+    <span style="background-color: #ffc107; color: #212529; padding: 2px 10px; border-radius: 12px; font-weight: bold; font-size: 0.8em;">To be Submitted</span>
+    <span style="font-size: 0.85em; color: #666;">RA-L 2026</span>
+  </div>
+  <h3 style="margin-top: 8px; margin-bottom: 5px;">[3] ATRS: Adaptive Trajectory Re-splitting via a Shared Neural Policy for Parallel Optimization</h3>
+  <div style="color: #555; font-size: 0.95em;"><strong>Jiajun Yu</strong>, Guodong Liu, Chao Xu, Fei Gao, and Yanjun Cao</div>
+  <p style="margin-top: 8px; margin-bottom: 0; color: #555; font-size: 0.9em;">
+    Proposed embedding a shared deep RL agent into the ADMM optimization loop to dynamically restructure trajectory segments, eliminating the optimization bottleneck. Modeled adaptive splitting as a MASP-MDP with a shared Actor-Critic architecture, generalizing across arbitrary segment counts. Achieved 26% fewer iterations and 19.1% less computation time versus baselines; real quadrotor traversing unknown forests in 35 ms.
+  </p>
+</div>
+
+<div style="background: #fff; border-left: 4px solid #ffc107; padding: 15px 20px; margin-bottom: 20px; box-shadow: 0 2px 5px rgba(0,0,0,0.05); border-radius: 0 8px 8px 0;">
+  <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
+    <span style="background-color: #ffc107; color: #212529; padding: 2px 10px; border-radius: 12px; font-weight: bold; font-size: 0.8em;">To be Submitted</span>
+    <span style="font-size: 0.85em; color: #666;">RA-L 2026</span>
+  </div>
+  <h3 style="margin-top: 8px; margin-bottom: 5px;">[4] Whole-body Planning for Any-Shape Robot directly in Point Cloud</h3>
+  <div style="color: #555; font-size: 0.95em;">Guodong Liu<sup>†</sup>, <strong>Jiajun Yu</strong><sup>†</sup>, Chao Xu, Fei Gao, and Yanjun Cao</div>
+  <p style="margin-top: 8px; margin-bottom: 0; color: #555; font-size: 0.9em;">
+    Proposed a dual-layer framework for whole-body trajectory optimization of arbitrary-shape robots directly in raw point clouds. Leveraged convex decomposition for differentiable signed-distance constraints with ADMM-based parallel solving. Full GPU pipeline completes in 19.86 ms in narrow mixed environments; real quadrotor with LiDAR navigates unknown environments in real time.
+  </p>
+</div>
+
+<div style="background: #fff; border-left: 4px solid #ffc107; padding: 15px 20px; margin-bottom: 20px; box-shadow: 0 2px 5px rgba(0,0,0,0.05); border-radius: 0 8px 8px 0;">
+  <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
+    <span style="background-color: #ffc107; color: #212529; padding: 2px 10px; border-radius: 12px; font-weight: bold; font-size: 0.8em;">To be Submitted</span>
+    <span style="font-size: 0.85em; color: #666;">RA-L 2026</span>
+  </div>
+  <h3 style="margin-top: 8px; margin-bottom: 5px;">[5] CoNiPA: Cooperative Non-inertial Control Framework with LSTM-Enhanced Predictive Awareness</h3>
+  <div style="color: #555; font-size: 0.95em;">Mingxuan Zhang<sup>†</sup>, <strong>Jiajun Yu</strong><sup>†</sup>, Baozhe Zhang<sup>†</sup>, Chao Xu, Fei Gao, and Yanjun Cao</div>
+  <p style="margin-top: 8px; margin-bottom: 0; color: #555; font-size: 0.9em;">
+    Proposed an active perception-aware control framework for GPS-denied air-ground cooperation. Unified UAV trajectory and gimbal orientation optimization under non-inertial dynamics via MPC. LSTM-based time-varying IMU prediction compensates for model mismatch. Achieved >98% target visibility and 20 cm tracking accuracy in aggressive maneuvers across simulation and real-world experiments.
+  </p>
+</div>
+
+<!-- ==================== Projects ==================== -->
+<h2 style="border-bottom: 2px solid #e1e5e9; padding-bottom: 10px; margin-top: 40px;">
+  <i class="fa fa-rocket"></i> Projects
+</h2>
+
+<div style="background: #fff; border-left: 4px solid #6f42c1; padding: 15px 20px; margin-bottom: 20px; box-shadow: 0 2px 5px rgba(0,0,0,0.05); border-radius: 0 8px 8px 0;">
+  <h3 style="margin-top: 0; margin-bottom: 5px;">Air-Ground Cooperation without Global Information <span style="float: right; font-size: 0.8em; color: #666; font-weight: normal;">IROS 2025 EXPO</span></h3>
+  <div style="color: #444; font-weight: bold;">Planning & Control Lead</div>
   <ul style="margin-top: 10px; margin-bottom: 0; color: #555;">
-    <li>Developed the <strong>TOP algorithm</strong> for trajectory optimization with constant time complexity.</li>
-    <li>Enhanced traditional optimization methods with Deep Reinforcement Learning to improve computation speeds.</li>
-    <li>Deployed parallel algorithms onto GPU architectures for maximum efficiency in large-scale scenarios.</li>
+    <li>RoFly and CubeTrack cooperation with CREPES and CoNi-MPC for GPS-denied autonomous air-ground systems.</li>
+    <li>Achieved real-time relative pose estimation, non-inertial trajectory tracking, and fleet coordination across multi-scenario real-robot demonstrations.</li>
+  </ul>
+  <div style="margin-top: 8px;">
+    <a href="https://fast-fire.github.io/IROS2025-EXPO-DisplayPage/" style="background: #6f42c1; color: white; padding: 3px 10px; border-radius: 12px; font-size: 0.85em; text-decoration: none;">Project Page</a>
+  </div>
+</div>
+
+<div style="background: #fff; border-left: 4px solid #6f42c1; padding: 15px 20px; margin-bottom: 20px; box-shadow: 0 2px 5px rgba(0,0,0,0.05); border-radius: 0 8px 8px 0;">
+  <h3 style="margin-top: 0; margin-bottom: 5px;">Autonomous UAV Inspection System for Power Substations <span style="float: right; font-size: 0.8em; color: #666; font-weight: normal;">Enterprise Project</span></h3>
+  <div style="color: #444; font-weight: bold;">Planning & Control Lead</div>
+  <ul style="margin-top: 10px; margin-bottom: 0; color: #555;">
+    <li>Developed a micro UAV (&lt;800 g, &gt;15 min endurance) autonomous inspection system for complex indoor substation environments.</li>
+    <li>Implemented GPS-denied real-time visual localization via onboard ORB-SLAM; equipped with thermal and RGB cameras for equipment temperature monitoring and instrument reading detection.</li>
+    <li>Achieved full-coverage path planning with interest-point-guided global coverage and local obstacle-avoidance trajectory optimization. Successfully deployed and tested on-site.</li>
   </ul>
 </div>
 
-<h2 style="border-bottom: 2px solid #e1e5e9; padding-bottom: 10px; margin-top: 40px;"><i class="fa fa-code"></i> Technical Skills</h2>
+<!-- ==================== Technical Skills ==================== -->
+<h2 style="border-bottom: 2px solid #e1e5e9; padding-bottom: 10px; margin-top: 40px;">
+  <i class="fa fa-code"></i> Technical Skills
+</h2>
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 10px;">
   <span style="background: #e9ecef; padding: 5px 12px; border-radius: 15px; font-size: 0.9em; color: #333;">C/C++</span>
   <span style="background: #e9ecef; padding: 5px 12px; border-radius: 15px; font-size: 0.9em; color: #333;">Python</span>
-  <span style="background: #e9ecef; padding: 5px 12px; border-radius: 15px; font-size: 0.9em; color: #333;">PyTorch</span>
+  <span style="background: #e9ecef; padding: 5px 12px; border-radius: 15px; font-size: 0.9em; color: #333;">PyTorch / libtorch</span>
+  <span style="background: #e9ecef; padding: 5px 12px; border-radius: 15px; font-size: 0.9em; color: #333;">CUDA / CuPy</span>
   <span style="background: #e9ecef; padding: 5px 12px; border-radius: 15px; font-size: 0.9em; color: #333;">ROS / ROS2</span>
-  <span style="background: #e9ecef; padding: 5px 12px; border-radius: 15px; font-size: 0.9em; color: #333;">CUDA / GPU Programming</span>
-  <span style="background: #e9ecef; padding: 5px 12px; border-radius: 15px; font-size: 0.9em; color: #333;">Trajectory Optimization</span>
-  <span style="background: #e9ecef; padding: 5px 12px; border-radius: 15px; font-size: 0.9em; color: #333;">Reinforcement Learning</span>
+  <span style="background: #e9ecef; padding: 5px 12px; border-radius: 15px; font-size: 0.9em; color: #333;">Isaac Gym/Sim</span>
+  <span style="background: #e9ecef; padding: 5px 12px; border-radius: 15px; font-size: 0.9em; color: #333;">Gazebo</span>
 </div>
-
-<!-- Education
-======
-* M.S. in Control Science and Engineering, Zhejiang University, 2025 (expected)
-  * Research Focus: Deep Reinforcement Learning and Trajectory Optimization
-  * Advisor: Prof. Yanjun Cao and Prof. Chao Xu
-  * Lab: FastLab (Fire Group)
-
-* B.S. in [Your Bachelor's Degree], [Your University], [Year]
-  * GPA: [Your GPA if you want to include it]
-  * Relevant Coursework: [List relevant courses]
-
-Research Experience
-======
-* 2023-Present: Graduate Research Assistant
-  * FastLab, Zhejiang University
-  * Research Topic: Enhancing Traditional Optimization Methods with Deep Reinforcement Learning
-  * Developed TOP algorithm for trajectory optimization with constant time complexity
-  * Supervisor: Prof. Yanjun Cao and Prof. Chao Xu
-
-* [Add other research experiences if any]
-
-Work Experience
-======
-* [Add any internships or work experience]
-
-Technical Skills
-======
-* Programming Languages
-  * Python, C++, MATLAB
-  * [Add other languages you know]
-  
-* Machine Learning & AI
-  * Deep Reinforcement Learning
-  * Trajectory Optimization
-  * Parallel Computing (CADMM)
-  
-* Tools & Frameworks
-  * PyTorch, TensorFlow
-  * ROS (Robot Operating System)
-  * Git, Linux
-  * [Add other tools]
-
-* Research Areas
-  * Robotics and Autonomous Systems
-  * Optimization Theory
-  * Real-time Planning Algorithms
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Awards and Honors
-======
-* [Add any scholarships, awards, or honors you've received]
-* [Example: Outstanding Graduate Award, 2024]
-* [Example: Academic Excellence Scholarship, 2022-2023]
-
-Professional Activities
-======
-* Reviewer for [Journal names if applicable]
-* Member of [Professional organizations if applicable]
-* [Add conference presentations, workshops attended, etc.]
-
-Service and Leadership
-======
-* [Add any service roles, leadership positions, or volunteer work]
-* [Example: Graduate Student Representative, Department of Control Science]
-* [Example: Organizer of Lab Seminar Series]
-
-Languages
-======
-* Chinese (Native)
-* English (Fluent)
-* [Add other languages if applicable] -->
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <span style="background: #dbeafe; padding: 5px 12px; border-radius: 15px; font-size: 0.9em; color: #1e40af;">Trajectory Optimization</span>
+  <span style="background: #dbeafe; padding: 5px 12px; border-radius: 15px; font-size: 0.9em; color: #1e40af;">Reinforcement Learning (PPO, TD3, SAC)</span>
+  <span style="background: #dbeafe; padding: 5px 12px; border-radius: 15px; font-size: 0.9em; color: #1e40af;">Convex Optimization</span>
+  <span style="background: #dbeafe; padding: 5px 12px; border-radius: 15px; font-size: 0.9em; color: #1e40af;">Differentiable Simulation</span>
+  <span style="background: #dbeafe; padding: 5px 12px; border-radius: 15px; font-size: 0.9em; color: #1e40af;">Parallel Computing</span>
+  <span style="background: #dbeafe; padding: 5px 12px; border-radius: 15px; font-size: 0.9em; color: #1e40af;">World Models</span>
+</div>
