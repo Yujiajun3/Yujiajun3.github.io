@@ -54,6 +54,12 @@ Publications
   </div>
 </div>
 
+**2. ATRS: Adaptive Trajectory Re-splitting via a Shared Neural Policy for Parallel Optimization**
+- **Authors**: **Jiajun Yu**, Guodong Liu, Chao Xu, Fei Gao, and Yanjun Cao
+- **Venue**: IEEE Robotics and Automation Letters, 2026 (Under Review)
+- **Links**: [Paper](link-to-paper) | [Video](link-to-video)
+- **Status**: <span style="background-color: #17a2b8; color: white; padding: 3px 10px; border-radius: 12px; font-weight: bold; font-size: 0.85em;">🔍 Under Review</span>
+
 Projects
 ------
 
@@ -90,32 +96,13 @@ Ongoing Works
 </div>
 -->
 
-**2. ATRS: Adaptive Trajectory Re-splitting via a Shared Neural Policy for Parallel Optimization**
-- **Authors**: **Jiajun Yu**, Guodong Liu, Chao Xu, Fei Gao, and Yanjun Cao
-- **Target Venue**: IEEE Robotics and Automation Letters, 2026
-- **Links**: [Paper](link-to-paper) | [Video](link-to-video)
-- **Status**: <span style="background-color: #ffc107; color: #212529; padding: 3px 10px; border-radius: 12px; font-weight: bold; font-size: 0.85em;">📝 To be Submitted</span>
-
-<!-- 
-<div style="margin: 15px 0; border: 1px solid #e1e5e9; border-radius: 8px; overflow: hidden; background-color: #f8f9fa;">
-  <div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-    <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: #666;">
-      Video Preview Coming Soon
-    </div>
-  </div>
-  <div style="padding: 8px 12px; font-size: 12px; color: #666; background-color: #fff;">
-    <i class="fa fa-play-circle" aria-hidden="true"></i> Project demonstration video
-  </div>
-</div>
--->
-
-**3. Whole-body Planning for Any-Shape Robot directly in Point Cloud**
+**2. Whole-body Planning for Any-Shape Robot directly in Point Cloud**
 - **Authors**: Guodong Liu†, **Jiajun Yu†**, Chao Xu, Fei Gao, and Yanjun Cao
 - **Target Venue**: IEEE Robotics and Automation Letters, 2026
 - **Links**: [Paper](link-to-paper) | [Video](link-to-video)
 - **Status**: <span style="background-color: #ffc107; color: #212529; padding: 3px 10px; border-radius: 12px; font-weight: bold; font-size: 0.85em;">📝 To be Submitted</span>
 
-**4. CoNiPA: Cooperative Non-inertial Control Framework with LSTM-Enhanced Predictive Awareness**
+**3. CoNiPA: Cooperative Non-inertial Control Framework with LSTM-Enhanced Predictive Awareness**
 - **Authors**: Mingxuan Zhang†, **Jiajun Yu†**, Baozhe Zhang†, Chao Xu, Fei Gao, and Yanjun Cao
 - **Target Venue**: IEEE Robotics and Automation Letters, 2026
 - **Links**: [Paper](link-to-paper) | [Video](link-to-video)
