@@ -61,27 +61,27 @@ redirect_from:
   </div>
 </div>
 
-<div style="background: #fff; border-left: 4px solid #ffc107; padding: 15px 20px; margin-bottom: 20px; box-shadow: 0 2px 5px rgba(0,0,0,0.05); border-radius: 0 8px 8px 0;">
+<div style="background: #fff; border-left: 4px solid #17a2b8; padding: 15px 20px; margin-bottom: 20px; box-shadow: 0 2px 5px rgba(0,0,0,0.05); border-radius: 0 8px 8px 0;">
   <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
-    <span style="background-color: #ffc107; color: #212529; padding: 2px 10px; border-radius: 12px; font-weight: bold; font-size: 0.8em;">To be Submitted</span>
-    <span style="font-size: 0.85em; color: #666;">IEEE T-RO 2026</span>
-  </div>
-  <h3 style="margin-top: 8px; margin-bottom: 5px;">[2] Learning Safety-enhanced Navigation with Integrated Model Information</h3>
-  <div style="color: #555; font-size: 0.95em;">Nanhe Chen<sup>†</sup>, <strong>Jiajun Yu</strong><sup>†</sup>, Mengke Zhang<sup>†</sup>, Pengxiang Zhou, Chao Xu, Fei Gao, and Yanjun Cao</div>
-  <p style="margin-top: 8px; margin-bottom: 0; color: #555; font-size: 0.9em;">
-    Proposed an end-to-end visual navigation framework integrating differentiable physics engine with safety-constrained policy optimization. Leveraged PALM for near-KKT convergence in a single loop. Achieved zero-shot sim-to-real transfer across differential-drive, tracked, and quadruped platforms with zero collision rate in dense environments.
-  </p>
-</div>
-
-<div style="background: #fff; border-left: 4px solid #ffc107; padding: 15px 20px; margin-bottom: 20px; box-shadow: 0 2px 5px rgba(0,0,0,0.05); border-radius: 0 8px 8px 0;">
-  <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
-    <span style="background-color: #ffc107; color: #212529; padding: 2px 10px; border-radius: 12px; font-weight: bold; font-size: 0.8em;">To be Submitted</span>
+    <span style="background-color: #17a2b8; color: white; padding: 2px 10px; border-radius: 12px; font-weight: bold; font-size: 0.8em;">Under Review</span>
     <span style="font-size: 0.85em; color: #666;">RA-L 2026</span>
   </div>
-  <h3 style="margin-top: 8px; margin-bottom: 5px;">[3] ATRS: Adaptive Trajectory Re-splitting via a Shared Neural Policy for Parallel Optimization</h3>
+  <h3 style="margin-top: 8px; margin-bottom: 5px;">[2] ATRS: Adaptive Trajectory Re-splitting via a Shared Neural Policy for Parallel Optimization</h3>
   <div style="color: #555; font-size: 0.95em;"><strong>Jiajun Yu</strong>, Guodong Liu, Chao Xu, Fei Gao, and Yanjun Cao</div>
   <p style="margin-top: 8px; margin-bottom: 0; color: #555; font-size: 0.9em;">
     Proposed embedding a shared deep RL agent into the ADMM optimization loop to dynamically restructure trajectory segments, eliminating the optimization bottleneck. Modeled adaptive splitting as a MASP-MDP with a shared Actor-Critic architecture, generalizing across arbitrary segment counts. Achieved 26% fewer iterations and 19.1% less computation time versus baselines; real quadrotor traversing unknown forests in 35 ms.
+  </p>
+</div>
+
+<div style="background: #fff; border-left: 4px solid #17a2b8; padding: 15px 20px; margin-bottom: 20px; box-shadow: 0 2px 5px rgba(0,0,0,0.05); border-radius: 0 8px 8px 0;">
+  <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
+    <span style="background-color: #17a2b8; color: white; padding: 2px 10px; border-radius: 12px; font-weight: bold; font-size: 0.8em;">Under Review</span>
+    <span style="font-size: 0.85em; color: #666;">IEEE T-RO 2026</span>
+  </div>
+  <h3 style="margin-top: 8px; margin-bottom: 5px;">[3] SPALM Nav: Safe Navigation via Stochastic Constrained Differentiable Policy Optimization</h3>
+  <div style="color: #555; font-size: 0.95em;">Nanhe Chen<sup>†</sup>, <strong>Jiajun Yu</strong><sup>†</sup>, Mengke Zhang<sup>†</sup>, Pengxiang Zhou, Chao Xu, Fei Gao, and Yanjun Cao</div>
+  <p style="margin-top: 8px; margin-bottom: 0; color: #555; font-size: 0.9em;">
+    Proposed an end-to-end visual navigation framework integrating differentiable physics engine with safety-constrained policy optimization. Leveraged PALM for near-KKT convergence in a single loop. Achieved zero-shot sim-to-real transfer across differential-drive, tracked, and quadruped platforms with zero collision rate in dense environments.
   </p>
 </div>
 

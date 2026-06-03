@@ -7,7 +7,12 @@ redirect_from:
   - /about.html
 ---
 Hi! I am currently pursuing a master’s degree in the [FastLab](http://zju-fast.com/) (Fire Group) at the College of Control Science and Engineering, Zhejiang University, under the guidance of [Yanjun Cao](http://zju-fast.com/research-group/yanjun-cao/) and [Chao Xu](http://zju-fast.com/research-group/chao-xu/).
+Building on my background in trajectory planning and optimization, I am now extending my focus toward **Vision-Language-Action (VLA) models** and **World Models** for robotics.
 If you’re interested in discussing my work or potential collaborations, feel free to email me at jjyu@zju.edu.cn.
+
+<div style="background: #eef6ff; border-left: 4px solid #007bff; padding: 12px 18px; margin: 20px 0; border-radius: 0 8px 8px 0; color: #333; line-height: 1.6;">
+  <strong>🚀 Open to Opportunities:</strong> I am actively seeking <strong>internship and full-time positions</strong> on <strong>VLA</strong> and <strong>World Models</strong> for robotics. Feel free to reach out at <a href="mailto:jjyu@zju.edu.cn">jjyu@zju.edu.cn</a>.
+</div>
 
 Education
 ------
@@ -20,9 +25,11 @@ Education
 
 Research Interests
 ------
-My research focuses on parallel trajectory optimization for robotics, which has demonstrated strong performance in large-scale and long-horizon problems. 
-I design GPU-accelerated algorithms that harness modern computing architectures for maximum efficiency. 
-Currently, I am actively exploring the integration of machine learning methods with traditional optimization techniques to further accelerate the trajectory optimization process and uncover new potential from this synergy.
+My research has centered on parallel trajectory optimization for robotics, which has demonstrated strong performance in large-scale and long-horizon problems. 
+I design GPU-accelerated algorithms that harness modern computing architectures for maximum efficiency, and I explore the integration of machine learning with traditional optimization to further accelerate planning and uncover new potential from this synergy.
+Building on this foundation, I am now extending my focus toward **Vision-Language-Action (VLA) models** and **World Models** for robotics.
+- Vision-Language-Action (VLA) Models
+- World Models for Robotics
 - Trajectory Planning & Optimization
 - Parallel Trajectory Optimization  
 - Deep Reinforcement Learning
@@ -60,6 +67,12 @@ Publications
 - **Links**: [Paper](link-to-paper) | [Video](link-to-video)
 - **Status**: <span style="background-color: #17a2b8; color: white; padding: 3px 10px; border-radius: 12px; font-weight: bold; font-size: 0.85em;">🔍 Under Review</span>
 
+**3. SPALM Nav: Safe Navigation via Stochastic Constrained Differentiable Policy Optimization**
+- **Authors**: Nanhe Chen†, **Jiajun Yu†**, Mengke Zhang†, Pengxiang Zhou, Chao Xu, Fei Gao, and Yanjun Cao
+- **Venue**: IEEE Transactions on Robotics, 2026 (Under Review)
+- **Links**: [Paper](link-to-paper) | [Video](link-to-video)
+- **Status**: <span style="background-color: #17a2b8; color: white; padding: 3px 10px; border-radius: 12px; font-weight: bold; font-size: 0.85em;">🔍 Under Review</span>
+
 Projects
 ------
 
@@ -77,32 +90,13 @@ Projects
 Ongoing Works
 ------
 
-**1. Learning Safety-enhanced Navigation with Integrated Model Information**
-- **Authors**: Nanhe Chen†, **Jiajun Yu†**, Mengke Zhang†, Pengxiang Zhou, Chao Xu, Fei Gao, and Yanjun Cao
-- **Target Venue**: IEEE Transactions on Robotics, 2026
-- **Links**: [Paper](link-to-paper) | [Video](link-to-video)
-- **Status**: <span style="background-color: #ffc107; color: #212529; padding: 3px 10px; border-radius: 12px; font-weight: bold; font-size: 0.85em;">📝 To be Submitted</span>
-
-<!-- 
-<div style="margin: 15px 0; border: 1px solid #e1e5e9; border-radius: 8px; overflow: hidden; background-color: #f8f9fa;">
-  <div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-    <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: #666;">
-      Video Preview Coming Soon
-    </div>
-  </div>
-  <div style="padding: 8px 12px; font-size: 12px; color: #666; background-color: #fff;">
-    <i class="fa fa-play-circle" aria-hidden="true"></i> Project demonstration video
-  </div>
-</div>
--->
-
-**2. Whole-body Planning for Any-Shape Robot directly in Point Cloud**
+**1. Whole-body Planning for Any-Shape Robot directly in Point Cloud**
 - **Authors**: Guodong Liu†, **Jiajun Yu†**, Chao Xu, Fei Gao, and Yanjun Cao
 - **Target Venue**: IEEE Robotics and Automation Letters, 2026
 - **Links**: [Paper](link-to-paper) | [Video](link-to-video)
 - **Status**: <span style="background-color: #ffc107; color: #212529; padding: 3px 10px; border-radius: 12px; font-weight: bold; font-size: 0.85em;">📝 To be Submitted</span>
 
-**3. CoNiPA: Cooperative Non-inertial Control Framework with LSTM-Enhanced Predictive Awareness**
+**2. CoNiPA: Cooperative Non-inertial Control Framework with LSTM-Enhanced Predictive Awareness**
 - **Authors**: Mingxuan Zhang†, **Jiajun Yu†**, Baozhe Zhang†, Chao Xu, Fei Gao, and Yanjun Cao
 - **Target Venue**: IEEE Robotics and Automation Letters, 2026
 - **Links**: [Paper](link-to-paper) | [Video](link-to-video)
